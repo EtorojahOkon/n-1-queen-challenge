@@ -37,6 +37,6 @@ This question does not need a web program. A console program is recommended.
 
 You are free to make use of any programming language of your choice.
 
-#### Hint
+#### Hints
 - n must not be less than 2.
 - Avoid nested loops as performance may be greatly affected for higher values of n.
